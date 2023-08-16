@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaksprojects)](https://github.com/anuraghazra/github-readme-stats)
+[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaksprojects)](https://github.com/deepaksprojects/Linkdin-clone)
 
 <!--
 **deepaksprojects/deepaksprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
